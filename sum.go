@@ -17,3 +17,7 @@ func sum(a, b int) int {
 func sub(a, b int) int {
 	return a - b
 }
+
+func findPercentage(num, percentage int) int {
+	return (num / 100) * percentage
+}

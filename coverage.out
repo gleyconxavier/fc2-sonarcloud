@@ -1,4 +1,5 @@
 mode: set
-github.com/gleyconxavier/fullcycle-c10-studies/continous-integration/sonarqube/go/sum.go:7.13,11.2 2 0
-github.com/gleyconxavier/fullcycle-c10-studies/continous-integration/sonarqube/go/sum.go:13.24,15.2 1 1
-github.com/gleyconxavier/fullcycle-c10-studies/continous-integration/sonarqube/go/sum.go:17.24,19.2 1 1
+github.com/gleyconxavier/fc2-sonarcloud/sum.go:7.13,11.2 2 0
+github.com/gleyconxavier/fc2-sonarcloud/sum.go:13.24,15.2 1 1
+github.com/gleyconxavier/fc2-sonarcloud/sum.go:17.24,19.2 1 1
+github.com/gleyconxavier/fc2-sonarcloud/sum.go:21.46,23.2 1 1

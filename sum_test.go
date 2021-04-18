@@ -18,3 +18,11 @@ func TestSub(t *testing.T) {
 		t.Error("The result must be -42")
 	}
 }
+
+func TestFindPercentage(t *testing.T) {
+	result := findPercentage(2000, 10)
+
+	if result != 200 {
+		t.Error("The result must be 200")
+	}
+}
